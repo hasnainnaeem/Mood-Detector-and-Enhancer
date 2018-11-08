@@ -35,5 +35,4 @@ labeled as "happy". If "not" is detected along with happy mood indicating word t
 
 If user is happy then he/she is asked from a list of activities to let program know what she/he was doing. Then that is stored
 to for future suggestions to make user happy.
-Morover if user is happy then through diary option he/she can store details of happy mood. In case of unhappy mood, user can read
-those good memories.
+Morover, if user is happy then through diary option user can store details of the day. In case of unhappy mood, program gives a choice to user to read memories from good days along with activity suggestions.
