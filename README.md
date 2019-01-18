@@ -1,32 +1,32 @@
-# Mood-Detector-and-Enhancer---C-Project
+# Mood Detector and Enhancer | C-Project
 Artificially Intelligent software to detect user's mood based on the text entered. After that it entertains user 
 based on his/her mood. In case of happy mood, it asks for reason and saves that. When user is not happy it suggests
 user about activities which made him/her happy previously. Moreover, it has a diary option which stores good 
 experiences of life and then displays to user in case of unhappiness.
 
-Features:
--Password 
--Basic Encyption of password before storing in file
--Detecting user's mood and entertaining accordingly based on words entered
--Option to write diary if user is happy
--Option to read diary if user is not happy
+# Features:
+- Password 
+- Basic Encyption of password before storing in file
+- Detecting user's mood and entertaining accordingly based on words entered
+- Option to write diary if user is happy
+- Option to read diary if user is not happy
 
-Feature Explanation for Programmers:
--Modular design
--Well commented code
--Text file to array convertor
--Search engine for words stored in text files
--Natural Language Processing
+### Feature Explanation for Programmers:
+- Modular design
+- Well commented code
+- Text file to array convertor
+- Search engine for words stored in text files
+- Language Processing
 
 
-Directory Structure:
--"SoftwareFiles" folder includes files in which data is stored at execution of software for later usage
+### Directory Structure:
+- "SoftwareFiles" folder includes files in which data is stored at execution of software for later usage
 such as encrypted password and name of user.
 
--Libraries folders include words which are compared with entered text to predict the mood of the user.
+- Libraries folders include words which are compared with entered text to predict the mood of the user.
 There is a separate file for Quote of the day.
 
-Basic Logic of Flow of Execution:
+### Basic Logic of Flow of Execution:
 Whatever user enters is converted in separate words using 2D arrays in C (generally known as String arrays). Each slot of
 array stores a word entered by user. Something between spaces represents a word. 
 Those words are compared with all the words in the libraries. If a word which indicated happiness is detected then mood is
