@@ -1,22 +1,22 @@
 # Mood Detector and Enhancer | C-Project
 Artificially Intelligent software to detect user's mood based on the text entered. After that it entertains user 
-based on his/her mood. In case of happy mood, it asks for reason and saves that. When user is not happy it suggests
-user about activities which made him/her happy previously. Moreover, it has a diary option which stores good 
-experiences of life and then displays to user in case of unhappiness.
+based on mood. Mood is predicted on the basis of text entered. 
+It stores things which make user happy and when user is not happy it suggests activities which made user happy previously. Moreover, it has a diary option which stores good 
+experiences of life and then displays to user in case of unhappy mood.
 
-# Features:
+### Software has:
 - Password 
 - Basic Encyption of password before storing in file
 - Detecting user's mood and entertaining accordingly based on words entered
 - Option to write diary if user is happy
 - Option to read diary if user is not happy
 
-### Feature Explanation for Programmers:
+### Code Features:
 - Modular design
 - Well commented code
 - Text file to array convertor
 - Search engine for words stored in text files
-- Language Processing
+- Natural Language Processing
 
 
 ### Directory Structure:
