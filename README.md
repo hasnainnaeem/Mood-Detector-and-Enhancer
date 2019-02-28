@@ -1,4 +1,4 @@
-# Mood Detector and Enhancer | C-Project
+#  C-Project: Mood Detector and Enhancer
 Artificially Intelligent software to detect user's mood based on the text entered. After that it entertains user 
 based on mood. Mood is predicted on the basis of text entered. 
 It stores things which make user happy and when user is not happy it suggests activities which made user happy previously. Moreover, it has a diary option which stores good 
